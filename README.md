@@ -24,6 +24,8 @@ This project focuses on:
    - Deleted duplicates.
    - Bulk renamed files.
    - Balanced classes.
+   - Deleted mixed gender images.
+   - Deleted no human found images.
    - Reduced to **181,225 clean images**.
 4. **Class Distribution:**
    - `female/`
