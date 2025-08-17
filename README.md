@@ -1,6 +1,7 @@
 # Gender Classification with EfficientNetV2-L
 
 **🚀 Live Demo / API Docs:** https://zain1133604-gender-classification.hf.space/docs
+**Download Model Weights:** https://huggingface.co/spaces/zain1133604/gender-classification/tree/main
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.2%2B-red)
