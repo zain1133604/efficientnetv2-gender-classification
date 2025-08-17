@@ -1,0 +1,19 @@
+{
+    "data_dir": "A:\\New folder\\project 1\\gender",
+    "checkpoint_base_dir": "A:\\model_checkpoints",
+    "model_name": "gender_classifier_efficientnet_v2_l",
+    "seed": 42,
+    "batch_size": 16,
+    "num_epochs": 40,
+    "freeze_backbone_epochs": 5,
+    "initial_head_lr": 0.001,
+    "fine_tune_full_lr": 5e-05,
+    "log_interval": 5,
+    "confusion_matrix_interval": 10,
+    "train_split_ratio": 0.8,
+    "image_size": 224,
+    "checkpoint_dir": "A:\\model_checkpoints\\gender_classifier_efficientnet_v2_l",
+    "best_model_path": "A:\\model_checkpoints\\gender_classifier_efficientnet_v2_l\\best_modeln.pth",
+    "run_id": "20250804_155457",
+    "run_dir": "A:\\model_checkpoints\\gender_classifier_efficientnet_v2_l\\run_20250804_155457"
+}
