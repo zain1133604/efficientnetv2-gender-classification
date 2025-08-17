@@ -32,6 +32,13 @@ This project focuses on:
 
 ---
 
+## 📈 Performance
+- **Training Accuracy**: 97.02%  
+- **Validation Accuracy**: 96.18%  
+- Tested on unseen dataset with strong generalization 
+
+---
+
 ## ⚙️ Model Details
 
 | Feature                  | Value                          |
