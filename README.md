@@ -82,6 +82,15 @@ Techniques applied:
 
 ---
 
+## 🧠 Model Architecture
+- Backbone: **EfficientNetV2-L**  
+- Loss: Cross-Entropy Loss  
+- Optimizer: AdamW with Weight Decay  
+- Scheduler: Cosine Annealing LR  
+- Validation Metrics: Accuracy, F1-score  
+
+---
+
 ## 🔧 Training Config (Latest Run)
 
 ```json
