@@ -1,7 +1,6 @@
-# efficientnetv2-gender-classification
-High-accuracy gender classification model using EfficientNetV2-L, trained on a custom 181K+ image dataset with robust checkpointing, overfitting prevention, and power outage recovery.
-# Gender classification with EfficientNetV2-L — 96.18% accuracy on 181K+ custom images
 # Gender Classification with EfficientNetV2-L
+
+**🚀 Live Demo / API Docs:** https://zain1133604-gender-classification.hf.space/docs
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.2%2B-red)
@@ -24,8 +23,6 @@ This project focuses on:
    - Deleted duplicates.
    - Bulk renamed files.
    - Balanced classes.
-   - Deleted mixed gender images.
-   - Deleted no human found images.
    - Reduced to **181,225 clean images**.
 4. **Class Distribution:**
    - `female/`
