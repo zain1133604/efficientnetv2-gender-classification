@@ -9,7 +9,7 @@
 ![Accuracy](https://img.shields.io/badge/Accuracy-96.18%25-green)
 ![Dataset Size](https://img.shields.io/badge/Dataset-181K%2B%20images-orange)
 
-A **high-accuracy gender classification model** trained on a custom dataset of **181K+ images** of male and female faces.  
+A **high-accuracy gender classification model** trained on a custom dataset of **181K+ images** of male and female pictures.  
 This project focuses on:
 - Large-scale dataset management.
 - Power outage recovery during training.
